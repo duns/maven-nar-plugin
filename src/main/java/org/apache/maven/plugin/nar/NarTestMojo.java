@@ -38,6 +38,7 @@ import org.codehaus.plexus.util.StringUtils;
  * @goal nar-test
  * @phase test
  * @requiresProject
+ * @requiresDependencyResolution test 
  * @author Mark Donszelmann
  */
 public class NarTestMojo
